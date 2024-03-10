@@ -62,7 +62,5 @@
          totalWorkingHours = employeeCount * workingHours;
          System.out.println("Если в компании работает " + employeeCount +" человек, то всего "+totalWorkingHours
                  +" часов работы может быть поделено между сотрудниками ");
-
-
      }
  }
